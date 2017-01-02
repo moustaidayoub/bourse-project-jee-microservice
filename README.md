@@ -5,4 +5,4 @@ Distributed systems project based on microservices, part of JEE/Spring microserv
 #####DAO layer for acessing data;
 #####Business Layer for society,order and wafabourse webscraping using JSoup API;
 #####Services Layer containing RMI,SOAP and REST services
-#### consult the report for more information and explanations
+### Consult the report for more information and explanations
